@@ -72,5 +72,3 @@ curl http://your-api-domain/your-python-script-endpoint?organization=example_org
 Contributions are welcome! Please submit issues or pull requests.
 
 ---
-
-Feel free to adapt and expand this template based on your project's specific requirements and structure.
